@@ -5,7 +5,7 @@ This is my personal learning tracker where I document what I'm learning, progres
 ## Current Learning Goals
 
 ### Active Topics
-- List your current learning topics here
+- [GitHub Learning](topics/github-learning/) - 6-8 week comprehensive plan (Target: March 2026)
 
 ### Completed Topics
 - Track completed learning here
